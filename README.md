@@ -1,4 +1,4 @@
-# python_ile_veri_madenciligi
+# Python ile Veri Madenciliği
 
 [Python ile Veri Madenciliği](https://www.kodlab.com/home/598-python-ile-veri-madenciligi-9786257440172.html) kitabındaki kodların yer almaktadır.
 
